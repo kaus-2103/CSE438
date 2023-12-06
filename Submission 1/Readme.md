@@ -10,10 +10,10 @@
 **Machine Learning-Based Analysis of Cryptocurrency Market Financial Risk Management**
 
 ## Link to the paper:
-[Here is Paper](https://doi.org/10.1109/ACCESS.2022.3162858 )
+**[Here is Paper](https://doi.org/10.1109/ACCESS.2022.3162858)**
 
 ## Group Number:
-14
+**14**
 
 ## Individual Submitter:
-20101185 Kaushik Roy
+**20101185 Kaushik Roy**
